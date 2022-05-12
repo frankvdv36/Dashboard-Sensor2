@@ -21,9 +21,8 @@ https://learn.adafruit.com/adafruit-bme680-humidity-temperature-barometic-pressu
 https://pypi.org/project/adafruit-circuitpython-scd30/
 Beide sensoren worden iedere x-seconden uitgelezen en de data wordt opgeslagen om later in het programma zichtbaar te maken. 
 Voor dit project worden wijzers gebruikt om de huidige waarden zichbaar te maken.
-We gebruiken 'Pygame' die een snelle toegang geeft tot het (deel)scherm. Ook een snelle en onzichtbare update is mogelijk, wat het doel is.  
-Een combinatie van 4 wijzers worden gebruikt om de volgende gegevens zichtbaar te maken: temperatuur, vochtigheid, luchtdruk en CO2.
-Daarvoor was een voorbeeld te vinden op https://github.com/wahajmurtaza/Pygame_Percent_Gauge
+We gebruiken 'Pygame' die een snelle toegang geeft tot het (deel)scherm. Ook een snelle en onzichtbare update is mogelijk, wat het doel was.  
+Een combinatie van 4 wijzers worden gebruikt om de volgende gegevens zichtbaar te maken: temperatuur, vochtigheid, luchtdruk en CO2 aangevuld mùet de tijd en datum in tekstvorm. Een voorbeeld is te vinden op https://github.com/wahajmurtaza/Pygame_Percent_Gauge
 
 ### Eigen scripts en programma's
 Zie in bijlage.

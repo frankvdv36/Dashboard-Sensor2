@@ -8,11 +8,11 @@ Het zichtbaar maken gebeurt grafisch, een 4-tal wijzers geven de de waarden weer
 In het midden wordt de tijd en datum ook zichtbaar gemaakt
 
 ## Bronnen
-https://github.com/wahajmurtaza/Pygame_Percent_Gauge/blob/main/percentage_gauge.py
-https://www.pygame.org/docs/ref/gfxdraw.html
-https://www.w3schools.com/colors/default.asp 
-https://github.com/adafruit/Adafruit_CircuitPython_BME680
-/usr/local/lib/python3/ is het pad waar de Modules te vinden zijn
+- https://github.com/wahajmurtaza/Pygame_Percent_Gauge/blob/main/percentage_gauge.py
+- https://www.pygame.org/docs/ref/gfxdraw.html
+- https://www.w3schools.com/colors/default.asp 
+- https://github.com/adafruit/Adafruit_CircuitPython_BME680
+- /usr/local/lib/python3/ is het pad waar de Modules te vinden zijn
 
 ## Hardware
 Voor dit project gebruiken we een BME680 (temperatuur, vochtigheid en luchtdruk) van Bosch en de SCD30 een CO2 meter met temperatur en vochtigheid. 
